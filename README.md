@@ -9,14 +9,13 @@
 
 ### 🚀 About Me
 
-- 🔭 Currently building **[SF POPOS](https://sfpopos.app/)** — your guide to San Francisco’s hidden public spaces  
+- 🔭 Currently building **[SF POPOS](https://sfpopos.app/)**, a guide to hidden public spaces in San Francisco  
 - 🌱 Learning **React Native / Expo**  
-- 👯 Open to collaborating on **[FlipWise](https://flipwise.framer.website/)**  
-- 🤝 Looking for help on **[Corner Clash](https://apps.apple.com/us/app/corner-clash/id6753838144?platform=iphone)**  
-- 👨‍💻 Check out all my apps on the [App Store](https://apps.apple.com/us/developer/samuel-snow/id1829824175)  
-- 💬 Ask me about **React Native**, **UI/UX design**, and **mobile app architecture**  
-- 📫 Reach me at **samuelerzhansnow@gmail.com**  
-- ⚡ Fun fact: I’m obsessed with **self-driving cars (especially Waymo)**, **design perfection**, and **quiet rooftop parks in SF 🌁**
+- 🧭 Exploring ideas for new urban discovery apps and tools  
+- 👨‍💻 Check out **SF POPOS** at [sfpopos.app](https://sfpopos.app/)  
+- 💬 Ask me about **React Native**, **UI/UX**, and modern mobile design  
+- 📫 Reach me at **support@sfpopos.app**  
+- ⚡ Fun fact: I love **self driving tech**, beautiful UI polish, and quiet rooftop parks in SF 🌁
 
 ---
 
