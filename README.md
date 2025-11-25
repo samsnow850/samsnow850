@@ -15,7 +15,7 @@
 - 👨‍💻 Check out **SF POPOS** at [sfpopos.app](https://sfpopos.app/)  
 - 💬 Ask me about **React Native**, **UI/UX**, and modern mobile design  
 - 📫 Reach me at **support@sfpopos.app**  
-- ⚡ Fun fact: I love **self driving tech**, beautiful UI polish, and quiet rooftop parks in SF 🌁
+- ⚡ Fun fact: I love self driving tech, beautiful UI polish, and quiet rooftop parks in SF 🌁
 
 ---
 
@@ -56,4 +56,20 @@
   <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="Swift" width="40" height="40"/>
   </a>
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=samsnow850&show_icons=true&theme=default&hide_border=true" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=samsnow850&theme=default&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samsnow850&layout=compact&hide_border=true" alt="Top Languages" />
 </p>
