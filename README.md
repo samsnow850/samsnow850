@@ -3,19 +3,24 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=samsnow850&label=Profile%20views&color=0e75b6&style=flat" alt="samsnow850" />
+  <a href="https://sfpopos.app/">
+    <img src="https://img.shields.io/badge/SF%20POPOS-sfpopos.app-0e75b6?style=flat" alt="SF POPOS"/>
+  </a>
+  <a href="https://nypops.app/">
+    <img src="https://img.shields.io/badge/NYC%20POPS-nypops.app-0e75b6?style=flat" alt="NYC POPS"/>
+  </a>
 </p>
 
 ---
 
 ### 🚀 About Me
 
-- 🔭 Currently building **[SF POPOS](https://sfpopos.app/)**, a guide to hidden public spaces in San Francisco  
-- 🌱 Learning **React Native / Expo**  
-- 🧭 Exploring ideas for new urban discovery apps and tools  
-- 👨‍💻 Check out **SF POPOS** at [sfpopos.app](https://sfpopos.app/)  
-- 💬 Ask me about **React Native**, **UI/UX**, and modern mobile design  
-- 📫 Reach me at **support@sfpopos.app**  
-- ⚡ Fun fact: I love self driving tech, beautiful UI polish, and quiet rooftop parks in SF 🌁
+- 📱 Built **[SF POPOS](https://sfpopos.app/)**, a guide to privately owned public open spaces in San Francisco  
+- 🗽 Currently building **[NYC POPS](https://nypops.app/)**, the New York version of the project  
+- 🎓 Future **Computer Science student at [California State University, Monterey Bay](https://csumb.edu/)**  
+- 🌱 Currently learning **computer science fundamentals and mobile development**  
+- 🧭 Interested in building apps that help people explore cities and discover hidden places  
+- 📫 Reach me at **support@sfpopos.app** or **support@nypops.app**
 
 ---
 
@@ -56,20 +61,4 @@
   <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="Swift" width="40" height="40"/>
   </a>
-</p>
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=samsnow850&show_icons=true&theme=default&hide_border=true" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=samsnow850&theme=default&hide_border=true" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samsnow850&layout=compact&hide_border=true" alt="Top Languages" />
 </p>
