@@ -15,9 +15,10 @@
 
 ### 🚀 About Me
 
-- 📱 Built **[SF POPOS](https://sfpopos.app/)**, a guide to privately owned public open spaces in San Francisco  
-- 🗽 Currently building **[NYC POPS](https://nypops.app/)**, the New York version of the project  
-- 🎓 Future **Computer Science student at [California State University, Monterey Bay](https://csumb.edu/)**  
-- 🌱 Currently learning **computer science fundamentals and mobile development**  
+- 📱 Built **SF POPOS**, a guide to privately owned public open spaces in San Francisco  
+- 🗽 Built **NY POPS**, the New York version of the project  
+- 🎓 Computer Science major at **University of Nevada, Reno**  
+- 🛠️ Currently building an app for a client (coming soon)  
+- 🌱 Learning **computer science fundamentals and mobile development**  
 - 🧭 Interested in building apps that help people explore cities and discover hidden places  
 - 📫 Reach me at **support@sfpopos.app** or **support@nypops.app**
