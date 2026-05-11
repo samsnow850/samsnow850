@@ -18,7 +18,7 @@
 - 📱 Built **SF POPOS**, a guide to privately owned public open spaces in San Francisco  
 - 🗽 Built **NY POPS**, the New York version of the project  
 - 🎓 Computer Science major at **University of Nevada, Reno**  
-- 🛠️ Currently building an app for a client (coming soon)  
+- 🛠️ Currently building **[Farts With Friends](http://fartswithfriends.com/)** for a client  
 - 🌱 Learning **computer science fundamentals and mobile development**  
 - 🧭 Interested in building apps that help people explore cities and discover hidden places  
 - 📫 Reach me at **support@sfpopos.app** or **support@nypops.app**
